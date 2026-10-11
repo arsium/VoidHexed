@@ -63,7 +63,7 @@ The interface is built around a command-line input with tab-completion and comma
 - **Memory Reader** — dump any memory range of the remote process, rendered as a hex+ASCII grid
 
 ### Intelligence Gathering
-- **Stealer** — saved passwords, cookies, credit cards, messaging apps (Discord, Telegram, Outlook, WeChat), gaming tokens (Steam, Roblox), VPN configs, FTP credentials
+- **Stealer** — cookies, credit cards, messaging apps (Discord, Telegram, Outlook, WeChat), gaming tokens (Steam, Roblox), VPN configs, FTP credentials
 - **System Info** — CPU, OS details, PEB/TEB inspection (Windows); full system enumeration — kernel, network, disks, processes, identity (Linux)
 - **NT Syscalls** — invoke ~40 NT kernel functions directly from the operator console: process/thread control, memory operations, token manipulation, power management
 
