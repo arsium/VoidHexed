@@ -5,7 +5,7 @@
 <h1 align="center">VoidHexed</h1>
 <p align="center">
   C2 framework for authorized security operations — Windows &amp; Linux<br/>
-  <sub>v0.9.6 · C# · .NET 10 · TLS 1.3 mTLS · AOT agents</sub>
+  <sub>v0.9.6 · C# · .NET 10 · TLS 1.3 mTLS · AOT agents</sub><br/>
   <sub><a href="https://voidhexed.xyz/">voidhexed.xyz</a></sub>
 </p>
 
